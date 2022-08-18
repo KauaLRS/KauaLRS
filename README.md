@@ -2,7 +2,7 @@
 - 👀 sou aluno de programação
 - 🌱 estou aprendendo a linguagem Html
 - 💞️ tenho 15 anos 
-- 📫 
+
 
 <!---
 KauaLRS/KauaLRS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
